@@ -30,9 +30,11 @@ Usage
 
 To use this program, you can cite our work in :
 
+```python
 @inproceedings{pamungkas2018nondicevosulserio,
   title={\#NonDicevoSulSerio: Irony Detection in English Tweets at Semeval 2018 Task 3},
   author={Pamungkas, Endang Wahyu and Patti, Viviana},
   booktitle={Proceedings of the 12nd International Workshop on Semantic Evaluation (SemEval 2018)},
   year={2018}
 }
+```
